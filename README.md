@@ -16,10 +16,12 @@ Collaboration - practices for collaborating in a development organization
 * Scrum
 * Estimating development effort
 * Planning
+* Creativity - List, Organize, Decide
 Design - practices for understanding what to build
-* Purpose definition
 * Stakeholder identification
-* Architecture
+* Purpose selection
+* Future Solution - architecture
+* Living Solution - implementation
 Build - practices for creating high quality output
 * Prototyping
 * eXtream Programming
