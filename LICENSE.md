@@ -1,7 +1,7 @@
-CC-BY-SA
-========
+License: CC-BY-SA
+=================
 
-See [CC-BY-SA](http://creativecommons.org/licenses/by-sa/4.0/) for license terms. Here is a human-readable summary of (and not a substitute for) the license.
+See [CC-BY-SA](http://creativecommons.org/licenses/by-sa/4.0/) for full license terms.
 
 DISCLAIMER
 ----------
