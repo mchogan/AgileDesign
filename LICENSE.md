@@ -1,7 +1,7 @@
-License: CC-BY-SA
-=================
+License: Creative Commons Attribution-ShareAlike 4.0 International
+==================================================================
 
-See [CC-BY-SA](http://creativecommons.org/licenses/by-sa/4.0/) for full license terms.
+See [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/) for full license terms.
 
 DISCLAIMER
 ----------
