@@ -10,6 +10,8 @@ For high traffic websites, it is possible to run more complex tests that investi
 
 Most people are taught to change one thing about a product at a time, ask for feedback, and use that feedback to assess the effectiveness of the change. This approach risks missing the impact of interactions between the different parts that make up a product. By using advanced multivariate testing methods, a designer can understand how a set of design changes impact product effectivess while taking into account the interactions of those design changes with each other. Let me illustrate with a simple scenario that compares A/B and Multivariate testing approaches.
 
+The most common statistical quality control tool I’ve noticed software companies using is [design of experiments](http://en.wikipedia.org/wiki/Design_of_experiments). Often, companies like Google and Facebook will talk about using A/B testing, where they define an objective for users of an application, then test variations on the user interface and see which variation results in the highest rate of users achieving the objective. Here’s an example from Adrian Vender at CardinalPath, [A/B Testing with Google Analytics Content Experiments](http://bit.ly/UPaTOY). A/B testing can be extended, using design of experiments methods, to statistically assess the impact that multiple proposed design changes and their interactions will have on an application’s fitness for use.
+
 ### Scenario: Chocolate Chip Cookie
 TODO: Validate this section, which is currently a conceptual placeholder.
 

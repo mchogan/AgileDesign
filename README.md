@@ -45,6 +45,9 @@ practices for measurement and control of design effectiveness
 ### Scale
 practices for scaling products to meet customer demand
 
+### Tools
+a directory of tools and templates to help make the practices discussed in this book more accessible
+
 Contributing
 ------------
 If you'd like to contribute to this collection of articles, please submit a pull request. If you'd like to suggest topics or flag issues, please use the issue tracker.
