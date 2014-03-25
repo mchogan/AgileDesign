@@ -1,7 +1,11 @@
 AgileDesign
 ===========
 
-Collection of short articles on agile product development
+A collection of short articles on agile product development.
+
+Future
+------
+Sometime in the future... unlike other references that tend to focus on a single aspect of product development (for example, Scrum) or treat software and hardware as silos of design, this set of articles presents a real-world, holistic perspective on what it takes to create an integrated system of hardware, software, and people.
 
 Topics
 ------
