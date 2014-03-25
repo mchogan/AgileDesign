@@ -31,3 +31,7 @@ Scale - practices for scaling products to meet customer demand
 Contributing
 ------------
 If you'd like to contribute to this collection of articles, please submit a pull request. If you'd like to suggest topics or flag issues, please use the issue tracker.
+
+License
+-------
+See LICENSE.md
